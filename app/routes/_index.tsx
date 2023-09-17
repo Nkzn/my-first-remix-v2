@@ -36,6 +36,11 @@ export default function Index() {
             Remix Docs
           </a>
         </li>
+        <li>
+          <a target="_blank" href="https://github.com/Nkzn/my-first-remix-v2" rel="noreferrer">
+            Source Code
+          </a>
+        </li>
       </ul>
     </div>
   );
